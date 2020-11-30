@@ -1,5 +1,5 @@
 # Do you want to send an annoying* message?
-### *making the person click every letter to read the sentance
+### *making the person click every letter to read the whole message
 
 you are in good luck.
 
