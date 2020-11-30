@@ -1,4 +1,4 @@
-val = input("Enter your value: ") 
+val = input("Enter your message: ") 
 array = [char for char in val]
 narray = ["||"]
 for i in range(len(val)):
